@@ -58,7 +58,7 @@ Steps to get up and running
  
  ## Authors
  
-  Tyler Harriott - Initial Work
+  Tyler Harriott
   
   
 
